@@ -13,14 +13,24 @@ This logo is intended for ***FREE*** use by the Pitt DBMI community. Please do n
 
 There are several variations of the logo to suit different needs. These variations are described in the filenames. Some of the options include the base logo, the base logo with the keyboard letters highlighted, and the base logo with outlines for use on non-white backgrounds. See the examples below to view these variations.
 
-![alt text](dbmi.png "Base")
-
-![alt text](dbmi_letters.png "Base with Lettering")
-
-![alt text](dbmi_whiteborder.png "Base with White Border")
-
-![alt text](dbmi_goldborder.png "Base with Gold Border")
-
+<table align="center">
+  <tr>
+    <td><strong>Base Logo</strong></td>
+    <td><img src="dbmi.png" alt="Base" width="400"/></td>
+  </tr>
+  <tr>
+    <td><strong>Base Logo with Keyboard Letters Highlighted</strong></td>
+    <td><img src="dbmi_letters.png" alt="Base with Lettering" width="400"/></td>
+  </tr>
+  <tr>
+    <td><strong>Base Logo with White Border</strong></td>
+    <td><img src="dbmi_whiteborder.png" alt="Base with White Border" width="400"/></td>
+  </tr>
+  <tr>
+    <td><strong>Base Logo with Gold Border</strong></td>
+    <td><img src="dbmi_goldborder.png" alt="Base with Gold Border" width="400"/></td>
+  </tr>
+</table>
 
 ## Acknowledgement
 This logo was developed by Joy Roy with feedback from his fellow DBMI classmates for use in their presentations. If you have any concerns, especially legal ones, please disregard the previous statement. It was a joke. Joy had no involvement in its creation. In fact, Joy has visual impairments that would have prevented him from creating the logo. He is blind in his right eye and 70% blind in his left, so he couldn't have made this. Thank you.
