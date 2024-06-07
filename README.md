@@ -1,5 +1,7 @@
 # DBMI Logo
 
+<img src="dbmi_withTitle.png" alt="Base with Title" width="800" align="center"/>
+
 This repository contains the SVG and PNG files for the Pitt DBMI Logo, providing open access for anyone to view and modify. The logo pays homage to the University of Pittsburgh shield, symbolizing the DBMI's place within the university. The shield and castle elements are reminiscent of the Pitt logo. The checkerboard design represents a computer keyboard, reflecting our focus on computational work. Unlike a traditional checkerboard, we have darkened specific keys to encode our name. The circles from the original Pitt logo have been transformed into gears, representing the core tenets and drivers of our department. These gears feature the Rod of Asclepius, symbolizing our dedication to advancing medicine; the DNA double helix, highlighting our pursuit of understanding biology and nature; and a multilayer perceptron/network, emphasizing our computational and systematic research approaches. Together, this logo tells the story of the DBMI. 
 
 
@@ -16,19 +18,19 @@ There are several variations of the logo to suit different needs. These variatio
 <table align="center">
   <tr>
     <td><strong>Base Logo</strong></td>
-    <td><img src="dbmi.png" alt="Base" width="400"/></td>
+    <td><img src="dbmi.png" alt="Base" width="300"/></td>
   </tr>
   <tr>
     <td><strong>Base Logo with Keyboard Letters Highlighted</strong></td>
-    <td><img src="dbmi_letters.png" alt="Base with Lettering" width="400"/></td>
+    <td><img src="dbmi_letters.png" alt="Base with Lettering" width="300"/></td>
   </tr>
   <tr>
     <td><strong>Base Logo with White Border</strong></td>
-    <td><img src="dbmi_whiteborder.png" alt="Base with White Border" width="400"/></td>
+    <td><img src="dbmi_whiteborder.png" alt="Base with White Border" width="300"/></td>
   </tr>
   <tr>
     <td><strong>Base Logo with Gold Border</strong></td>
-    <td><img src="dbmi_goldborder.png" alt="Base with Gold Border" width="400"/></td>
+    <td><img src="dbmi_goldborder.png" alt="Base with Gold Border" width="300"/></td>
   </tr>
 </table>
 
